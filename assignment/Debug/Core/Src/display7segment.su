@@ -1,0 +1,3 @@
+display7segment.c:9:6:display7SEG_Mode	16	static
+display7segment.c:37:6:display7SEG_traffic_light2	16	static
+display7segment.c:95:6:display7SEG_traffic_light1	16	static

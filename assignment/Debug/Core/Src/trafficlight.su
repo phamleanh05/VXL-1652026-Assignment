@@ -1,0 +1,17 @@
+trafficlight.c:10:6:setTrafficLight1	16	static
+trafficlight.c:27:6:setTrafficLight2	16	static
+trafficlight.c:44:6:update7SEG_light1	24	static
+trafficlight.c:62:6:update7SEG_light2	24	static
+trafficlight.c:81:5:getNextState	16	static
+trafficlight.c:90:5:getDuration	16	static
+trafficlight.c:99:6:init	8	static
+trafficlight.c:108:6:updateLight	24	static
+trafficlight.c:123:6:updateState	24	static
+trafficlight.c:132:6:blynk_7Seg	8	static
+trafficlight.c:140:6:trafficLightRun	8	static
+trafficlight.c:152:6:manualLight	8	static
+trafficlight.c:174:6:blynk_light	16	static
+trafficlight.c:185:6:ConfigTimeREDLight	8	static
+trafficlight.c:196:6:setTimeREDLight	8	static
+trafficlight.c:204:6:ConfigTimeGreenLight	8	static
+trafficlight.c:215:6:setTimeGreenLight	8	static
